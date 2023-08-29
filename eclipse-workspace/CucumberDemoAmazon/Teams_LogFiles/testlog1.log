@@ -1,0 +1,15 @@
+[main] INFO com.utils.CreateLog - window maximized
+[main] INFO com.utils.CreateLog - username is entered
+[main] INFO com.utils.CreateLog - password entered
+[main] INFO com.utils.CreateLog - login sucessfully
+[main] INFO com.utils.CreateLog - select the product
+[main] INFO com.utils.CreateLog - product added to cart
+[main] INFO com.utils.CreateLog - cartpage opened
+[main] INFO com.utils.CreateLog - shipping first name entered
+[main] INFO com.utils.CreateLog - shipping last name entered
+[main] INFO com.utils.CreateLog - shipping postal address entered
+[main] INFO com.utils.CreateLog - shipping address completed
+[main] INFO com.utils.CreateLog - order finished
+[main] INFO com.utils.CreateLog - navigation back to homepage
+[main] INFO com.utils.CreateLog - menu button clicked
+[main] INFO com.utils.CreateLog - logout sucessfully
