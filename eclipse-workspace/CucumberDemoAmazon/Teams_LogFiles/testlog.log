@@ -13,3 +13,32 @@
 2023-08-29 11:27:15,368 - com.utils.CreateLog -INFO - navigation back to homepage
 2023-08-29 11:27:15,484 - com.utils.CreateLog -INFO - menu button clicked
 2023-08-29 11:27:15,622 - com.utils.CreateLog -INFO - logout sucessfully
+2023-08-29 14:51:32,362 - com.utils.CreateLog -INFO - window maximized
+2023-08-29 14:51:32,637 - com.utils.CreateLog -INFO - username is entered
+2023-08-29 14:51:32,791 - com.utils.CreateLog -INFO - password entered
+2023-08-29 14:51:33,030 - com.utils.CreateLog -INFO - login sucessfully
+2023-08-29 14:51:33,171 - com.utils.CreateLog -INFO - select the product
+2023-08-29 14:51:33,283 - com.utils.CreateLog -INFO - product added to cart
+2023-08-29 14:51:33,410 - com.utils.CreateLog -INFO - cartpage opened
+2023-08-29 14:51:33,626 - com.utils.CreateLog -INFO - shipping first name entered
+2023-08-29 14:51:33,745 - com.utils.CreateLog -INFO - shipping last name entered
+2023-08-29 14:51:33,860 - com.utils.CreateLog -INFO - shipping postal address entered
+2023-08-29 14:51:33,969 - com.utils.CreateLog -INFO - shipping address completed
+2023-08-29 14:51:34,053 - com.utils.CreateLog -INFO - order finished
+2023-08-29 14:51:34,158 - com.utils.CreateLog -INFO - navigation back to homepage
+2023-08-29 14:51:34,240 - com.utils.CreateLog -INFO - menu button clicked
+2023-08-29 14:53:43,200 - com.utils.CreateLog -INFO - window maximized
+2023-08-29 14:53:43,417 - com.utils.CreateLog -INFO - username is entered
+2023-08-29 14:53:43,525 - com.utils.CreateLog -INFO - password entered
+2023-08-29 14:53:43,696 - com.utils.CreateLog -INFO - login sucessfully
+2023-08-29 14:53:43,797 - com.utils.CreateLog -INFO - select the product
+2023-08-29 14:53:43,884 - com.utils.CreateLog -INFO - product added to cart
+2023-08-29 14:53:43,958 - com.utils.CreateLog -INFO - cartpage opened
+2023-08-29 14:53:44,115 - com.utils.CreateLog -INFO - shipping first name entered
+2023-08-29 14:53:44,230 - com.utils.CreateLog -INFO - shipping last name entered
+2023-08-29 14:53:44,338 - com.utils.CreateLog -INFO - shipping postal address entered
+2023-08-29 14:53:44,423 - com.utils.CreateLog -INFO - shipping address completed
+2023-08-29 14:53:44,496 - com.utils.CreateLog -INFO - order finished
+2023-08-29 14:53:44,597 - com.utils.CreateLog -INFO - navigation back to homepage
+2023-08-29 14:53:44,687 - com.utils.CreateLog -INFO - menu button clicked
+2023-08-29 14:53:47,799 - com.utils.CreateLog -INFO - logout sucessfully

@@ -17,9 +17,10 @@ public class LogoutPage extends BaseClass {
 	private WebElement menubtn;
 	@FindBy(xpath="//nav[@class='bm-item-list']/./a[3]")
 	private WebElement logoutbtn;
-	public void clkMenubtn() {
+	public void clkMenubtn() throws Exception {
 		utilfunctions.clickElement(menubtn);
 		log.Info("menu button clicked");
+		Thread.sleep(3000);
 		
 	}
 	public void clkLogoutbtn() throws InterruptedException {

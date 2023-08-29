@@ -91,7 +91,7 @@ public class LoginPageSteps extends Objects{
 	}
 
 	@Then("user click on the menubutton")
-	public void user_click_on_the_menubutton() {
+	public void user_click_on_the_menubutton() throws Exception {
 		lopage.clkMenubtn();
 		
 	}
